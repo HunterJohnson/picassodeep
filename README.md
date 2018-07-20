@@ -1,6 +1,7 @@
 # picassodeep
 ml viz
-https://github.com/merantix/picasso
+
+*https://github.com/merantix/picasso
 
 picasso is an open source CNN visualizer
 
@@ -11,3 +12,5 @@ for deep learning this is most useful to see what parts of an image our classifi
 config.py is where the .h5/.hdf5 weights file is referenced
 
 requires pillow / PIL
+
+--> $sudo pip install Pillow
